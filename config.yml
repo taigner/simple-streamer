@@ -1,0 +1,9 @@
+serverDisplayName: Simple Streamer
+httpServerIP: auto
+httpServerPort: 7070
+ffmpegOptions: -vcodec mpeg2video -acodec ac3 -threads 4 -async 1 -skip_loop_filter all -copyts -b:v 17000k -maxrate 17000k -bufsize 5097k -g 15 -ac 2 -ab 192k -sn -f mpegts -
+
+discovery:
+    senderHost: 239.255.255.250
+    senderPort: 1900
+
