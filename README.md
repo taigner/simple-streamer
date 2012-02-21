@@ -1,7 +1,7 @@
 Introduction
 ============
 
-simple-streamer is an DLNA server for streaming real-time transcoded videos. Currently, it is developed for the [Sony KDL-40EX715](http://www.sony.de/support/de/product/KDL-40EX715).
+simple-streamer is a real-time transcoding DLNA server for streaming videos. Currently, it is developed for the [Sony KDL-40EX715](http://www.sony.de/support/de/product/KDL-40EX715).
 
 Getting Started
 ===============
